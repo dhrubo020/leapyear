@@ -1,0 +1,15 @@
+.leapyear-list {
+    margin-top: 50px;
+    height:150px;
+    overflow-y: scroll;
+  }
+.body{
+    margin: 0px;
+    padding: 0px;
+    background-color: beige;
+    background-image: linear-gradient(orange,tomato);
+}
+.input{
+    border: 2px gray;
+    border-radius: 5px;
+}
